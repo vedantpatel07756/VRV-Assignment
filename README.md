@@ -90,7 +90,11 @@ Setting
 ![{465F7856-0965-4AFD-84C4-FBFBC5B4C399}](https://github.com/user-attachments/assets/a4a3be2d-ac41-467f-b199-9dbf1770614b)
 
 
+
 Mobile View :
+
+![Untitled design](https://github.com/user-attachments/assets/a40ceb69-d6ae-4712-a7bf-37130e6c7e86)
+
 ![WhatsApp Image 2024-11-22 at 5 06 57 PM](https://github.com/user-attachments/assets/31005d2b-4dc1-4cc5-9f02-e8d4061f16b6)
 ![WhatsApp Image 2024-11-22 at 5 06 59 PM](https://github.com/user-attachments/assets/401e2a01-6c9c-45ce-ace3-d26c5f62813c)
 ![WhatsApp Image 2024-11-22 at 5 06 58 PM](https://github.com/user-attachments/assets/a9d85f27-648c-4e92-9aa2-710e097c8ad2)
