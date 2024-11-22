@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+Primary Color: #7B61FF (Soft Purple)
+Accent Color: #FF6584 (Pink/Red for highlights or delete actions)
+Background: #F9F8FC (Light Lavender/Gray for subtle tone)
+Secondary Text/Icons: #606060 (Neutral Gray)
+Borders/Dividers: #E5E5E5 (Light Gray)
+Buttons: #3D3D3D (Dark Gray) */
+
+*{
+  font-family: sans-serif;
+}
