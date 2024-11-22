@@ -79,12 +79,22 @@ Responsive Testing: Resize the browser or test on mobile devices to verify respo
 
 Screenshots
 Dashboard
-![{D71B8AC3-3F02-4CB0-9CFC-74FE85CCF204}](https://github.com/user-attachments/assets/382c22c6-a947-4b7e-8adf-3ac0ec7c05e6)
+![{8F3F6AA0-48CE-4687-9C09-A9F80B411E8B}](https://github.com/user-attachments/assets/5195a017-f3ab-49b0-8bb2-39be75e5f43b)
+
 
 Members Section
-![{7FBF3E6C-4C50-43BE-B933-3945A1FCE4FE}](https://github.com/user-attachments/assets/0dae0186-1777-494e-b269-ead481f29638)
+![{827248FA-D5F1-4219-8354-E78819AC661F}](https://github.com/user-attachments/assets/6b77abe5-27a3-46e5-ba59-cff0f6524fa8)
+
 
 Setting
-![{F2524329-AD9E-4A8C-9DA1-EEBBB7387F40}](https://github.com/user-attachments/assets/2a7b51e1-52ee-46ec-9d99-9fc4df68a63c)
+![{465F7856-0965-4AFD-84C4-FBFBC5B4C399}](https://github.com/user-attachments/assets/a4a3be2d-ac41-467f-b199-9dbf1770614b)
 
+
+Mobile View :
+![WhatsApp Image 2024-11-22 at 5 06 57 PM](https://github.com/user-attachments/assets/31005d2b-4dc1-4cc5-9f02-e8d4061f16b6)
+![WhatsApp Image 2024-11-22 at 5 06 59 PM](https://github.com/user-attachments/assets/401e2a01-6c9c-45ce-ace3-d26c5f62813c)
+![WhatsApp Image 2024-11-22 at 5 06 58 PM](https://github.com/user-attachments/assets/a9d85f27-648c-4e92-9aa2-710e097c8ad2)
+![WhatsApp Image 2024-11-22 at 5 06 58 PM (3)](https://github.com/user-attachments/assets/a9bee4ce-5e5f-46ff-92cd-6018837c1f20)
+![WhatsApp Image 2024-11-22 at 5 06 58 PM (2)](https://github.com/user-attachments/assets/e1a87d32-1a30-4cfe-ad25-9c3dfc61f181)
+![WhatsApp Image 2024-11-22 at 5 06 58 PM (1)](https://github.com/user-attachments/assets/748d7273-14cc-40bb-ac89-f9a7045887b2)
 
